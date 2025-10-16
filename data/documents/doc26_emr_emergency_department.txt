@@ -1,0 +1,17 @@
+EMR in Emergency Department Settings
+
+Emergency department (ED) EMR systems must support rapid assessment, treatment, and disposition of patients with varied and often undifferentiated complaints. The high-volume, time-sensitive nature of emergency care creates unique requirements for EMR functionality and workflow design.
+
+Track boards provide real-time visibility into department operations, displaying each patient's location, chief complaint, assigned providers, pending orders, and time metrics. Color-coding indicates patients approaching or exceeding target times for provider assessment or disposition, helping staff prioritize care delivery.
+
+Quick registration processes minimize administrative burden during initial patient arrival. Basic demographic and insurance information can be collected initially, with complete registration occurring later. The EMR should allow care to begin before registration is finalized, while maintaining proper patient identification.
+
+Triage documentation captures presenting complaint, vital signs, and initial nursing assessment. Acuity scores assigned during triage prioritize patients for provider evaluation. Electronic triage systems may interface with track boards to automatically queue patients by acuity and arrival time.
+
+Order entry must be rapid and efficient. Favorites lists, preference lists, and order sets allow providers to quickly order common test combinations. Conditional orders (e.g., "if chest x-ray shows pneumonia, then...") anticipate next steps and reduce delays.
+
+Results reporting integrates critical lab and imaging findings prominently in the ED workflow. Automated alerts for critical results ensure timely provider notification. The ability to view results before they're finalized allows providers to plan disposition while awaiting final verification.
+
+Discharge instructions generated from the EMR provide patients with diagnosis-specific information, medication instructions, and follow-up recommendations. Standardized discharge instruction sets improve patient education and reduce callbacks for clarification.
+
+ED information exchange with inpatient teams, outpatient providers, and public health agencies is facilitated through EMR integration. Admission orders can be entered from the ED, and comprehensive ED summaries are available to receiving providers.

@@ -1,0 +1,7 @@
+Electronic Medical Records (EMR) Overview
+
+An Electronic Medical Record (EMR) is a digital version of a patient's paper chart. EMRs are real-time, patient-centered records that make information available instantly and securely to authorized users. EMRs contain the medical and treatment history of patients in one practice and are designed to streamline the workflow within a healthcare facility.
+
+Key components of EMRs include patient demographics, progress notes, vital signs, medical histories, diagnoses, medications, immunization dates, allergies, radiology images, and laboratory test results. The primary purpose of EMRs is to improve the quality and efficiency of patient care by providing accurate, up-to-date, and complete information about patients at the point of care.
+
+EMRs can help healthcare providers make better decisions by providing comprehensive patient data, reduce medical errors through improved legibility and completeness of records, and improve patient safety by flagging potential drug interactions or allergies. Additionally, EMRs facilitate better coordination of care among multiple healthcare providers treating the same patient.

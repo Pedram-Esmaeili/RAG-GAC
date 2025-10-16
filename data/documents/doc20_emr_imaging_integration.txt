@@ -1,0 +1,15 @@
+EMR Integration with Medical Imaging Systems
+
+Integration between EMRs and picture archiving and communication systems (PACS) provides clinicians with unified access to patient information and diagnostic images. This integration is essential for efficient workflow and comprehensive patient care.
+
+Ordering imaging studies through the EMR's CPOE system transmits orders to the radiology information system (RIS) and PACS, including clinical indication, scheduling information, and relevant patient history. Appropriate use criteria built into the order entry process promote evidence-based imaging utilization.
+
+Bidirectional integration allows imaging studies to be launched directly from the EMR patient record, with the PACS system automatically opening to the correct patient and study. This single sign-on experience eliminates the need for separate authentication and manual patient searching in the imaging system.
+
+Radiology reports created in the RIS are automatically transmitted to the EMR and linked to the corresponding patient encounter and imaging order. Structured reporting templates in the RIS promote comprehensive, standardized documentation of imaging findings.
+
+Embedded image viewers within the EMR allow clinicians to view diagnostic images without leaving the patient record or accessing separate PACS workstations. While these embedded viewers may not offer the full functionality required for radiologist interpretation, they provide sufficient capability for referring providers to review images.
+
+Critical findings communication is enhanced through integration. When radiologists identify urgent or unexpected findings, automated notifications can be sent through the EMR to the ordering provider and documented in the patient record, ensuring timely follow-up.
+
+Prior imaging reports and images accessible through the EMR support current clinical decision-making. The ability to compare current studies with prior examinations is essential for detecting interval changes and assessing treatment response.

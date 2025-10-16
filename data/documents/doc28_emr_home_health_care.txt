@@ -1,0 +1,17 @@
+EMR for Home Health Care
+
+Home health care EMR systems support care delivery in patients' homes, enabling documentation at the point of care, care coordination, and regulatory compliance. Mobile-first design is essential given that clinicians work primarily in the field rather than office settings.
+
+OASIS (Outcome and Assessment Information Set) documentation is required for Medicare-certified home health agencies. EMRs must support comprehensive OASIS assessments at admission, resumption of care, recertification, transfer, and discharge. Automated skip patterns and edit checks reduce documentation errors.
+
+Visit documentation captures skilled nursing and therapy services provided during home visits. Templates specific to visit types (skilled nursing, physical therapy, occupational therapy, speech therapy) ensure complete documentation. Clinicians can document on mobile devices during or immediately after visits, even without internet connectivity.
+
+Care coordination among multiple disciplines is critical in home health. The EMR should facilitate communication between nurses, therapists, aides, and physicians. Care plan access ensures all team members understand treatment goals and current interventions.
+
+Medication management in the home setting requires patient and caregiver education. The EMR should support medication reconciliation at each visit, identify adherence issues, and document education provided. Photos of medication bottles can be captured and stored in the record.
+
+Vital signs trending and symptom monitoring support chronic disease management. Home health clinicians can review historical data during visits to assess response to treatment. Abnormal findings trigger communication with physicians and potential care plan modifications.
+
+Physician orders must be obtained and documented for skilled services. The EMR should facilitate electronic physician order transmission and signature, reducing delays in care authorization. Orders are linked to visit documentation to demonstrate medical necessity.
+
+Scheduling and routing optimization helps agencies efficiently assign visits to staff based on geography, patient needs, and clinician skills. EMR integration with scheduling systems ensures clinicians have current patient information before visits.

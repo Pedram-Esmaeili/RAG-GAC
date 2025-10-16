@@ -1,0 +1,15 @@
+EMR Applications in Mental Health Care
+
+Mental health and behavioral health care have unique EMR requirements that differ from general medical practice. Documentation must support comprehensive assessment of psychological, social, and environmental factors while maintaining enhanced privacy protections for sensitive information.
+
+Mental status examinations are core components of psychiatric assessment. EMR templates should guide thorough documentation of appearance, behavior, mood, affect, thought process, thought content, perception, cognition, insight, and judgment. Standardized formats improve consistency and completeness.
+
+Treatment planning in behavioral health requires collaborative goal-setting with patients. EMRs should support person-centered treatment plans that document patient-identified goals, measurable objectives, planned interventions, and progress toward goals. Regular treatment plan reviews ensure ongoing relevance and effectiveness.
+
+Substance use screening and assessment tools integrated into the EMR support identification of alcohol and drug use disorders. Standardized instruments like AUDIT, DAST, or SBIRT protocols can be administered and scored within the EMR, with positive screens triggering appropriate interventions.
+
+Crisis assessment and safety planning are critical functions. EMRs should facilitate documentation of suicide risk assessments, including risk factors, protective factors, and level of risk. Safety plans co-created with patients should be easily accessible and updated as circumstances change.
+
+Outcome measurement using validated instruments tracks treatment effectiveness. Depression scales (PHQ-9), anxiety measures (GAD-7), and other tools administered serially over time demonstrate symptom improvement or identify need for treatment modifications.
+
+Integration of behavioral health records with medical records supports whole-person care while respecting 42 CFR Part 2 regulations that provide enhanced privacy protections for substance use disorder treatment records. Consent management functionality ensures appropriate information sharing.

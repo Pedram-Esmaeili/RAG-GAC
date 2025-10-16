@@ -1,0 +1,15 @@
+EMR Integration with Telemedicine
+
+Telemedicine has experienced rapid growth, and integration with EMR systems is essential for seamless virtual care delivery. Effective integration ensures that telemedicine encounters are documented consistently with in-person visits, supporting continuity of care and regulatory compliance.
+
+Video conferencing platforms embedded within or linked to the EMR allow providers to launch virtual visits directly from the patient's record. This integration eliminates the need to switch between applications and ensures the provider has immediate access to relevant patient information during the encounter.
+
+Documentation of telemedicine visits should be captured in the same EMR as traditional encounters, maintaining a unified longitudinal record. Templates specific to virtual visits can address unique aspects such as technology quality, patient location, and the limitations of remote physical examination.
+
+E-prescribing from telemedicine visits requires full EMR integration to access the patient's medication history, check for interactions and allergies, and transmit prescriptions electronically to pharmacies. This integration supports safe prescribing practices regardless of visit modality.
+
+Remote patient monitoring devices can feed data directly into the EMR, supporting chronic disease management through telemedicine. Blood pressure monitors, glucose meters, pulse oximeters, and other devices transmit readings that providers can review and discuss during virtual visits.
+
+Scheduling systems integrated with the EMR should accommodate both in-person and virtual appointments, with clear communication to patients about visit type. Patient portal integration allows patients to join virtual visits directly from their portal account, simplifying access.
+
+Reimbursement for telemedicine services requires appropriate documentation and coding. EMRs must support the specific documentation requirements and modifiers associated with virtual care to ensure proper payment.

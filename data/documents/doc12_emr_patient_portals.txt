@@ -1,0 +1,13 @@
+EMR Patient Portals and Engagement
+
+Patient portals are web-based or mobile applications that provide patients with secure access to their health information stored in the EMR. These portals represent a critical component of patient engagement strategies, empowering individuals to take an active role in managing their health.
+
+Core portal features typically include access to medical records, test results, immunization histories, and medication lists. Patients can review visit summaries, discharge instructions, and educational materials related to their conditions. This transparency helps patients better understand their health status and treatment plans.
+
+Communication tools within patient portals enable secure messaging between patients and healthcare providers. Patients can ask non-urgent questions, request prescription refills, and schedule appointments without phone calls. This asynchronous communication improves access to care while reducing administrative burden on staff.
+
+Self-service functions such as appointment scheduling, form completion, and payment processing enhance convenience for patients and improve operational efficiency for practices. Pre-visit questionnaires completed through the portal can be automatically imported into the EMR, saving time during appointments and ensuring comprehensive information collection.
+
+Patient-reported outcomes and remote monitoring data collected through portals provide valuable information between visits. Patients with chronic conditions can track symptoms, blood pressure, glucose levels, or other metrics, with data flowing directly into the EMR for provider review. This continuous monitoring enables earlier intervention and better disease management.
+
+Adoption of patient portals varies across populations, with barriers including limited digital literacy, lack of internet access, and concerns about privacy. Healthcare organizations must provide education and support to maximize portal utilization, particularly among underserved populations.
