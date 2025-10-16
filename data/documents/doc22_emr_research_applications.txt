@@ -1,0 +1,15 @@
+EMR Data for Clinical Research
+
+EMR systems have become valuable sources of data for clinical research, enabling large-scale observational studies, pragmatic trials, and real-world evidence generation. The extensive longitudinal data captured in EMRs supports research that would be impractical with traditional prospective data collection methods.
+
+Secondary use of EMR data for research requires appropriate governance, including institutional review board oversight, patient consent considerations, and data use agreements. De-identification of data protects patient privacy while enabling research use. Honest broker systems separate investigators from identifiable information.
+
+Phenotyping algorithms use EMR data to identify patient cohorts with specific conditions or characteristics. These algorithms may incorporate diagnosis codes, laboratory values, medications, and natural language processing of clinical notes to accurately classify patients for research studies.
+
+Pragmatic clinical trials embedded within the EMR infrastructure can evaluate interventions in real-world settings with minimal disruption to clinical workflow. Electronic consent processes, automated eligibility screening, and EMR-based outcome ascertainment reduce the cost and complexity of clinical trials.
+
+Real-world evidence generated from EMR data informs regulatory decisions, comparative effectiveness research, and post-market surveillance of medications and devices. The large sample sizes and diverse patient populations represented in EMR databases enhance generalizability compared to traditional randomized controlled trials.
+
+Data quality issues must be considered when using EMR data for research. Missing data, inconsistent documentation practices, and differences in EMR implementations across sites can introduce bias or confounding. Validation studies comparing EMR data to gold standard sources help assess data quality.
+
+Learning health systems use EMR data to generate insights that are rapidly translated into practice improvements, with outcomes feeding back into the knowledge generation cycle. This approach leverages EMR infrastructure to continuously improve care through evidence-based practice evolution.

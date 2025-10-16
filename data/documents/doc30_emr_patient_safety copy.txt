@@ -1,0 +1,19 @@
+EMR Features for Patient Safety
+
+Patient safety is fundamentally enhanced by well-designed EMR systems that reduce errors, improve communication, and support evidence-based care. However, poorly implemented or designed EMRs can introduce new safety risks. Understanding EMR safety features and potential hazards is essential.
+
+Medication safety features are among the most impactful EMR capabilities. Computerized provider order entry with clinical decision support reduces prescribing errors by checking for drug-drug interactions, drug-allergy conflicts, duplicate therapies, and inappropriate doses. Barcode medication administration verifies the five rights before medication administration.
+
+Patient identification verification prevents wrong-patient errors. Barcode scanning of patient wristbands before specimen collection, medication administration, or procedure performance ensures the right patient receives the right care. Two-factor authentication requiring both patient name and date of birth or medical record number reduces identification errors.
+
+Allergy documentation with standardized terminology ensures allergy information is clearly communicated. Alerts when providers attempt to prescribe medications to which patients are allergic prevent allergic reactions. The severity and type of reaction should be documented to help providers assess risk-benefit considerations.
+
+Critical results notification ensures timely provider awareness of abnormal findings requiring urgent attention. Automated alerts for critical laboratory values, abnormal imaging findings, or pathology results include escalation pathways if initial notifications are not acknowledged within specified timeframes.
+
+Hard stops versus soft stops in clinical decision support alert design balance safety with usability. Hard stops prevent certain actions (e.g., prescribing contraindicated medications), while soft stops allow providers to proceed after acknowledging warnings. The appropriate use of each depends on the severity of potential harm.
+
+Downtime procedures and system reliability are safety considerations. When the EMR is unavailable, patient care must continue safely using paper-based downtime procedures. Regular system maintenance, redundancy, and disaster recovery planning minimize unplanned downtime.
+
+Alert fatigue occurs when providers are overwhelmed by excessive or non-actionable alerts, leading to desensitization and alert override. Alert optimization involves refining alert criteria, reducing unnecessary alerts, and prioritizing critical warnings to maintain provider attention to important safety issues.
+
+Usability and human factors engineering influence EMR safety. Poorly designed interfaces, confusing workflows, and excessive clicks can lead to errors, workarounds, and provider frustration. User-centered design principles should guide EMR configuration and optimization to support safe, efficient care delivery.

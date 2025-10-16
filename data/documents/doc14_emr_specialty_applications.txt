@@ -1,0 +1,13 @@
+Specialty-Specific EMR Applications
+
+Different medical specialties have unique documentation and workflow requirements that general EMR systems may not fully address. Specialty-specific EMR modules or dedicated systems provide functionality tailored to the particular needs of specialties such as cardiology, oncology, orthopedics, or behavioral health.
+
+Cardiology EMRs integrate with diagnostic equipment to import ECGs, echocardiograms, and stress test results directly into the patient record. Structured reporting templates for cardiac procedures and imaging studies ensure comprehensive documentation of findings. Risk calculators for cardiovascular events can be embedded in the workflow to support treatment decisions.
+
+Oncology EMR systems manage complex chemotherapy protocols, including drug dosing calculations based on body surface area, cycle scheduling, and monitoring for adverse effects. Integration with tumor registries facilitates cancer surveillance and research. Treatment plan management tools track multi-modal therapies involving surgery, radiation, and systemic treatments.
+
+Behavioral health EMRs accommodate the unique documentation requirements of mental health and substance abuse treatment, including mental status examinations, treatment plans, and progress notes. Privacy protections may be more stringent than for general medical records, with additional controls on information sharing.
+
+Emergency department EMRs prioritize rapid information access and documentation efficiency. Track boards display patient status, wait times, and bed availability. Quick registration processes and abbreviated documentation templates support the fast-paced ED environment. Integration with emergency medical services enables pre-arrival notification and transfer of field data.
+
+Specialty EMRs often include registries for tracking patients with specific conditions, supporting quality improvement initiatives and research. However, specialty systems may create interoperability challenges if not well-integrated with the organization's main EMR platform.

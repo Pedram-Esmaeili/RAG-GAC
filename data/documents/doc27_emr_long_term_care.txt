@@ -1,0 +1,17 @@
+EMR Systems for Long-Term Care Facilities
+
+Long-term care facilities including nursing homes and assisted living communities have distinct EMR needs related to chronic disease management, regulatory compliance, and the residential nature of care. Long-term care EMRs differ substantially from acute care systems.
+
+Minimum Data Set (MDS) documentation is federally mandated for nursing homes. EMRs must support MDS completion, including comprehensive resident assessment, care area assessments, and care planning. Automated data population from clinical documentation reduces duplicate data entry and improves accuracy.
+
+Medication administration records (MARs) track scheduled and PRN medication administration across all shifts. Electronic MARs reduce medication errors, support allergy checking, and provide complete administration histories. Controlled substance tracking within the EMR supports regulatory compliance and diversion prevention.
+
+Activities of daily living (ADL) documentation captures resident functional status across multiple domains including bathing, dressing, mobility, toileting, and eating. Changes in ADL function trigger care plan updates and inform resource allocation decisions.
+
+Care planning in long-term care is interdisciplinary, involving nursing, therapy, social services, dietary, and activities staff. EMRs should support collaborative care planning with contributions from all disciplines, regular care plan meetings, and documentation of resident and family involvement.
+
+Falls documentation and analysis identify patterns and risk factors. Incident reports for falls and other adverse events are created in the EMR, with aggregated data supporting quality improvement initiatives and regulatory reporting.
+
+Family communication logs document interactions with resident families, supporting relationship building and shared decision-making. Portal access for family members keeps them informed about their loved one's care and condition.
+
+Quality measure reporting for nursing homes includes numerous CMS and state-mandated metrics. EMRs should automate quality measure calculation and generate required reports, reducing manual abstraction burden.

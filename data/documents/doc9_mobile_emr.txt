@@ -1,0 +1,11 @@
+Mobile Access to Electronic Medical Records
+
+Mobile EMR applications enable healthcare providers to access patient information and perform clinical tasks using smartphones and tablets. This mobility is particularly valuable in settings such as hospital rounds, home healthcare, emergency response, and after-hours call coverage.
+
+Mobile EMR apps typically provide access to key patient information including demographics, problem lists, medications, allergies, vital signs, lab results, and imaging reports. Many apps also support clinical documentation, allowing providers to enter notes, update problem lists, and document procedures from mobile devices.
+
+Secure messaging integrated with mobile EMR apps facilitates communication among care team members. Providers can discuss patient cases, request consultations, and coordinate care without relying on less secure methods like SMS or personal email. These messages are automatically documented in the patient record.
+
+Security is paramount for mobile EMR access. Organizations must implement strong authentication, device encryption, and remote wipe capabilities to protect patient data if devices are lost or stolen. Mobile device management (MDM) solutions help IT departments enforce security policies and maintain control over devices accessing the EMR.
+
+The user experience of mobile EMR apps is critical for adoption. Interfaces must be optimized for smaller screens, with intuitive navigation and prioritized information display. Apps should work reliably even with intermittent network connectivity, synchronizing data when connections are restored.

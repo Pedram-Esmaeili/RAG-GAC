@@ -1,0 +1,13 @@
+EMR Medication Management Systems
+
+Medication management is a critical EMR function that directly impacts patient safety. Computerized physician order entry (CPOE) for medications has been shown to reduce prescribing errors and adverse drug events when properly implemented with clinical decision support.
+
+Electronic prescribing (e-prescribing) transmits medication orders directly from the EMR to pharmacies, eliminating transcription errors and improving efficiency. E-prescribing systems can check formulary coverage in real-time, inform providers about patient cost-sharing, and suggest therapeutic alternatives when preferred medications are unavailable.
+
+Medication reconciliation at care transitions is facilitated by EMR systems that maintain comprehensive medication lists. When patients are admitted to the hospital, visit the emergency department, or transition between care settings, providers compare active medication lists with newly ordered medications to identify and resolve discrepancies.
+
+Barcode medication administration (BCMA) integrates with the EMR to ensure the "five rights" of medication administration: right patient, right drug, right dose, right route, and right time. Nurses scan patient wristbands and medication barcodes before administration, with the system verifying against the electronic medication administration record.
+
+Clinical decision support for medications includes checking for drug-drug interactions, drug-allergy conflicts, duplicate therapies, and dose range verification based on patient characteristics. Advanced systems may provide renal dosing adjustments, pediatric dosing calculations, and pregnancy risk category warnings.
+
+Medication histories imported from external sources such as prescription drug monitoring programs, pharmacy benefit managers, and health information exchanges provide more complete information than patient-reported medication lists alone. This comprehensive view supports safer prescribing and helps identify potential medication-related problems.

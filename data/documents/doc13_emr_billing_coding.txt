@@ -1,0 +1,13 @@
+EMR Integration with Billing and Coding
+
+Integration between EMR systems and billing processes is crucial for revenue cycle management and financial performance. Modern EMRs include features that streamline coding, charge capture, and claims submission, reducing errors and accelerating reimbursement.
+
+Computer-assisted coding (CAC) uses natural language processing to analyze clinical documentation and suggest appropriate diagnosis and procedure codes. This technology can improve coding accuracy and consistency while reducing the time required for manual code assignment. However, human review remains essential to ensure clinical accuracy and compliance.
+
+Charge capture functionality integrated into clinical workflows ensures that all billable services are documented and coded. When providers order procedures, prescribe medications, or perform services, the EMR can automatically generate corresponding charges. This real-time charge capture reduces lost revenue from undocumented services.
+
+Documentation improvement tools within the EMR prompt providers to include information necessary for proper coding and reimbursement. For example, when documenting a patient encounter, the system might remind the provider to specify the severity or laterality of a condition, details required for accurate ICD-10 coding.
+
+Claims scrubbing technology reviews electronic claims before submission, identifying potential errors or missing information that might cause denials. This pre-submission review increases first-pass claim acceptance rates and accelerates payment.
+
+Denial management features track denied claims, identify patterns, and help organizations address root causes of denials. Analytics can reveal whether denials are due to coding errors, missing documentation, or payer-specific issues, enabling targeted improvement efforts.

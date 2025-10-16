@@ -1,0 +1,15 @@
+Geriatric EMR Considerations
+
+Caring for older adults presents distinct challenges that EMRs should address through specialized functionality. Geriatric patients often have multiple chronic conditions, complex medication regimens, and age-specific risks requiring particular attention.
+
+Polypharmacy management is critical in geriatric care. EMRs should flag potentially inappropriate medications for older adults, such as those identified by the Beers Criteria. Drug interaction checking becomes increasingly important as medication lists grow, and deprescribing support tools can help providers safely reduce medication burden.
+
+Falls risk assessment and prevention measures should be integrated into geriatric EMR workflows. Standardized falls risk screening tools can be embedded in the EMR, with positive screens triggering care plan interventions such as physical therapy referrals, home safety evaluations, and medication reviews.
+
+Cognitive assessment and dementia care management require specialized documentation tools. Serial cognitive screening can be tracked over time to detect changes. Care plans for patients with dementia should address behavioral management, caregiver support, and advance care planning.
+
+Functional status documentation captures patients' ability to perform activities of daily living and instrumental activities of daily living. Changes in functional status may indicate acute illness or disease progression and inform care planning and resource allocation decisions.
+
+Advance care planning documentation ensures that patients' wishes regarding end-of-life care are clearly recorded and accessible across care settings. EMRs should prominently display advance directives, POLST (Physician Orders for Life-Sustaining Treatment) forms, and healthcare proxy information.
+
+Transitional care management is particularly important for older adults who frequently move between care settings. EMRs should support medication reconciliation, transmission of comprehensive care summaries, and coordination of follow-up care to reduce adverse events during transitions.
