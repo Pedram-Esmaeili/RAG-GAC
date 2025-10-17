@@ -36,4 +36,4 @@ else:
     logging.info("No new documents detected. Index is up to date.")
     
 if __name__ == "__main__":
-    uvicorn.run(app, host="0.0.0.0", port=5003)
+    uvicorn.run(app, host="0.0.0.0", port=5001)

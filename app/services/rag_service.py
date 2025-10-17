@@ -346,7 +346,7 @@ Return only the alternative queries, one per line, without numbering or explanat
 			answer = await self._summarize_for_voice_async(answer, language)
 			summary_latency_s = time.perf_counter() - summary_start_time
 			gen_latency_s += summary_latency_s  # Add summarization time to generation latency
-			self.voice_service.process_response_parts_for_voice(answer, language)
+			await self.voice_service.process_response_parts_for_voice(complete_response=answer, language=language,connection_id=connection_id)
 
 		total_latency_s = time.perf_counter() - start_total
 		
