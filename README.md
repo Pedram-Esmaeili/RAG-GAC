@@ -101,8 +101,7 @@ uvicorn main:app --port 5003
 ```
 The API starts on `http://0.0.0.0:5003`.
 
-6) TTS
-You should create API key form :
+6) TTS: you need create API key form :
 ```bash
 https://console.sws.speechify.com/login
 ```
